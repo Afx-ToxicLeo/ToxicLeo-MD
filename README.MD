@@ -19,41 +19,37 @@ Simple WhatsApp Bot
 - [x] Menu <details><summary>Screenshot</summary><img src="https://telegra.ph/file/d049caecbc4fcc69b7085.jpg"></details>
 ------------------
 𝗦𝗶𝗺𝗽𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱
+## Stats
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://new-qio.herokuapp.com/)
+![Jarotr Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-ToxicLeo/ToxicLeo-MD)
- 
-   
+<p align="center"><a href="https://github.com/Afx-ToxicLeo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpiii22&theme=radical&layout=compact"></a></p>
 
----------
-  
-  
-  # Thanks if you use this source code >//<
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
-## FOR TERMUX/USERS
+<details>
 
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git https://github.com/toxic-leo1/Toxicleo-MD
-npm install
-```
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-## RECOMMENDED INSTALL ON TERMUX
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alpiii22)
 
-```bash
-pkg install yarn
-yarn
-```
+</details>
 
-## Installing
-```bash
-$ node .
-```
+<details>
+
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/Alpiii22?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpasuruan)
+
+</details> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=Jarotr)
+
+
+---
+
+
       
 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 
 
