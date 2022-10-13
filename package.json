@@ -2,10 +2,10 @@
   "name": "ToxicLeo-MD",
   "version": "2.0.0",
   "description": "ToxicLeo-MD.",
-  "main": "./index.js",
-  "scripts": {
-    "start": "supervisor -s ./index.js"
-  },
+  "main": "index.js",
+   "scripts": {
+      "start": "pm2 start . --attach --name ⛦"
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Afx-ToxicLeo/ToxicLeo-MD.git"
