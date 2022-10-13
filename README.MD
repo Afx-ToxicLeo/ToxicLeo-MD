@@ -21,34 +21,7 @@ Simple WhatsApp Bot
 𝗦𝗶𝗺𝗽𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱
 ## Stats
 
-![TOXIC LEO GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
-
-<p align="center"><a href="https:https://github.com/Afx-ToxicLeo/ToxicLeo-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpiii22&theme=radical&layout=compact"></a></p>
-
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-
-<details>
-
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Afx-ToxicLeo)
-
-</details>
-
-<details>
-
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Alpiii22?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fpasuruan)
-
-</details> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=Jarotr)
-
-
----
-
+![
 
       
 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 
