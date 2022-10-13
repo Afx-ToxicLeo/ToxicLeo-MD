@@ -20,6 +20,11 @@ const store = makeInMemoryStore({
 });
 
 require("events").EventEmitter.defaultMaxListeners = 500;
+if (!fs.existsSync("./media/session.json")) {
+  MakeSession(config.SESSION_ID, "./media/session.json").then(
+    console.log("Vesrion : " + require("./package.json").version)
+  );
+}
 
 
 fs.readdirSync("./lib/database/").forEach((plugin) => {
@@ -27,6 +32,7 @@ fs.readdirSync("./lib/database/").forEach((plugin) => {
     require("./lib/database/" + plugin);
   }
 });
+
 
 async function Xasena() {
   console.log("Syncing Database");
