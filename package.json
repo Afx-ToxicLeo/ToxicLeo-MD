@@ -1,36 +1,28 @@
 {
-  "name": "x-asena",
+  "name": "ToxicLeo-MD",
   "version": "2.0.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./bot.js",
+  "description": "ToxicLeo-MD.",
+  "main": "./index.js",
   "scripts": {
-    "start": "supervisor -s ./bot.js"
+    "start": "supervisor -s ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neeraj-x0/x-asena.git"
+    "url": "git+https://github.com/Afx-ToxicLeo/ToxicLeo-MD.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
-    "ai",
-    "asena",
-    "api",
-    "unlimited",
-    "asenadev",
-    "machine learning",
-    "automatic",
-    "whatsapp web",
-    "whatsapp api",
-    "WhatsAsena"
+    "LEO",
+    "Abu-MD"
   ],
-  "author": "X-Electra",
-  "developer": "X-Electra / Neeraj-x0",
+  "author": "Afx-ToxicLeo",
+  "developer": "ToxicLeo-MD",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Neeraj-x0/x-asena/issues"
+    "url": "https://github.com/Afx-ToxicLeo/ToxicLeo-MD/issues"
   },
-  "homepage": "https://github.com/Neeraj-x0/x-asena#readme",
+  "homepage": "https://github.com/Afx-ToxicLeo/ToxicLeo-MD#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
