@@ -18,7 +18,7 @@ Simple WhatsApp Bot
 - [x] Welcome <details><summary>Screenshot</summary><img src="https://i.postimg.cc/pXZW2gSv/null-20220918-WA0002.jpg"></details>
 - [x] Menu <details><summary>Screenshot</summary><img src="https://telegra.ph/file/d049caecbc4fcc69b7085.jpg"></details>
 ------------------
-SIMPLE METHOD
+𝗦𝗶𝗺𝗽𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://x-asena-qr.herokuapp.com)
 
