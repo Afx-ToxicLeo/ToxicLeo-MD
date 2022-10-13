@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.postimg.cc/pXZW2gSv/null-20220918-WA0002.jpg" width="50%" height="50%" alt="Relldev"/>
     <br>
-    <a href="https://github.com/toxic-leo1"><img title="Created by" src="https://img.shields.io/badge/Creator-Toxic Leo-green?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Afx-ToxicLeo"><img title="Created by" src="https://img.shields.io/badge/Creator-Toxic Leo-green?style=for-the-badge&logo=github"></a>
 </p>
 
 # ʙʏ ᴛᴏxɪᴄ ʟᴇᴏ✘
