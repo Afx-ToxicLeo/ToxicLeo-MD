@@ -216,7 +216,7 @@ command(
   },
   async (message, match) => {
     if (!(match || message.reply_message.text))
-      return await message.reply(" *_𝙴𝚗𝚝𝚎𝚛 𝚂𝚘𝚗𝚐 𝙽𝚊𝚖𝚎_ *");
+      return await message.reply(" *𝙴𝚗𝚝𝚎𝚛 𝚂𝚘𝚗𝚐 𝙽𝚊𝚖𝚎* ");
     match = match || message.reply_message.text;
     if (ytIdRegex.test(match)) {
       yta(match.trim()).then(async ({ dl_link, title, thumb }) => {
