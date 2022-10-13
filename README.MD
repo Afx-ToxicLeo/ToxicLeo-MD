@@ -20,7 +20,7 @@ Simple WhatsApp Bot
 ------------------
 𝗦𝗶𝗺𝗽𝗹𝗲 𝗠𝗲𝘁𝗵𝗼𝗱
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://x-asena-qr.herokuapp.com)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://new-qio.herokuapp.com/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Afx-ToxicLeo/ToxicLeo-MD)
  
