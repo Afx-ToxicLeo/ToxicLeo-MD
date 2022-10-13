@@ -1,9 +1,3 @@
-/* Copyright (C) 2022 X-Electra.
-Licensed under the  GPL-3.0 License;
-you may not use this file except in compliance with the License.
-X-Asena - X-Electra
-*/
-
 const {
   default: makeWASocket,
   useSingleFileAuthState,
@@ -27,11 +21,7 @@ const store = makeInMemoryStore({
 
 require("events").EventEmitter.defaultMaxListeners = 500;
 
-if (!fs.existsSync("./media/session.json")) {
-  MakeSession(config.SESSION_ID, "./media/session.json").then(
-    console.log("Vesrion : " + require("./package.json").version)
-  );
-}
+
 fs.readdirSync("./lib/database/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
     require("./lib/database/" + plugin);
@@ -65,7 +55,7 @@ async function Xasena() {
   conn.ev.on("connection.update", async (s) => {
     const { connection, lastDisconnect } = s;
     if (connection === "connecting") {
-      console.log("X-Asena");
+      console.log("ToxicLeo-MD");
       console.log("ℹ️ *Connecting to WhatsApp... Please Wait.* ");
     }
 
@@ -80,8 +70,7 @@ async function Xasena() {
     }
 
     if (connection === "open") {
-      conn.sendMessage(conn.user.id, { text: " *connected* ✔✔" });
-      console.log("✅ *Login Successful!* ");
+      console.log("✅ *Session Connect Successful!* ");
       console.log("⬇️ *Installing External Plugins..* ");
 
       let plugins = await PluginDB.findAll();
@@ -107,6 +96,7 @@ async function Xasena() {
         }
       });
       console.log("✅ *Plugins Installed!* ");
+      conn.sendMessage(conn.user.id, { text: " *_ToxicLeo-MD Working_*" });
 
       try {
         conn.ev.on("creds.update", saveState);
