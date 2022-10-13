@@ -1,11 +1,11 @@
 {
-  "name": "x-asena",
-  "description": "X-asena Multi Device whatsappbot",
-  "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+  "name": "ToxicLeo-MD",
+  "description": "ToxicLeo-MD Multi Device whatsappbot",
+  "logo": "https://i.postimg.cc/pXZW2gSv/null-20220918-WA0002.jpg",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Neeraj-x0/x-asena",
-  "website": "https://github.com/Neeraj-x0/x-asena",
-  "success_url": "https://github.com/Neeraj-x0/x-asena",
+  "repository": "https://github.com/Afx-ToxicLeo/ToxicLeo-MD",
+  "website": "https://github.com/Afx-ToxicLeo/ToxicLeo-MD",
+  "success_url": "https://github.com/Afx-ToxicLeo/ToxicLeo-MD",
   "stack": "container",
   "env": {
     "ANTI_LINK": {
